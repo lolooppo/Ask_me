@@ -1,6 +1,6 @@
 # Ask_me
 ## this is a file based project which simulates ASK.me program and contains lots of functionalities.
-1. sign up (you can not sign in with used user name or email)
+1. sign up (you can not sign up with used user name or email)
 2. sign in
 3. ask question
 4. answer question
